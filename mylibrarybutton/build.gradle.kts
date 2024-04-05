@@ -4,6 +4,7 @@ plugins {
     `maven-publish`
 }
 
+
 android {
     namespace = "com.example.mylibrarybutton"
     compileSdk = 34
@@ -32,6 +33,8 @@ android {
     }
 
 }
+
+
 
 dependencies {
     implementation(libs.androidx.core.ktx)

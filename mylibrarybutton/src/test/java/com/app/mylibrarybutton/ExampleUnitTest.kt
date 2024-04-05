@@ -1,4 +1,4 @@
-package com.example.myfirstlibrarydemo
+package com.app.mylibrarybutton
 
 import org.junit.Test
 

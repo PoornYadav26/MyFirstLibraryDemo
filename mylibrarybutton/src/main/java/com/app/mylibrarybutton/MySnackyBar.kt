@@ -1,4 +1,4 @@
-package com.example.mylibrarybutton
+package com.app.mylibrarybutton
 
 import android.view.Gravity
 import android.view.View

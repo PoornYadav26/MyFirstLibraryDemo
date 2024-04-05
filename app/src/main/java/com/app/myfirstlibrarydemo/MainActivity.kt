@@ -1,13 +1,12 @@
-package com.example.myfirstlibrarydemo
+package com.app.myfirstlibrarydemo
 
 import android.os.Bundle
 import android.view.View
 import android.widget.Button
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
-import com.example.mylibrarybutton.MySnackyBar
+import com.app.mylibrarybutton.MySnackyBar
+import com.example.myfirstlibrarydemo.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
